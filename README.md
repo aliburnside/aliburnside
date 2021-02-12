@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Alexandra a front-end developer from New Zealand 🇳🇿
  
-I am currently living in London 🇬🇧 and I love creating reliable and unique applications that are focused <br>on the user experience. I am also passionate about UX/UI design 🎨 <br> You can find my learnings and helpful hints here: 👇
+I am currently living in London 🇬🇧 and I love creating reliable and unique applications that are focused on the user experience. I am also passionate about UX/UI design 🎨 <br> You can find my learnings and helpful hints here: 👇
  -  ✍️ https://medium.com/@ally_burnside/
 
  
