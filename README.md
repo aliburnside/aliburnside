@@ -3,7 +3,7 @@
 I am currently living in London 🇬🇧 and I love creating reliable and unique applications that are focused <br>on the user experience. I am also passionate about UX/UI design 🎨 <br> You can find my learnings and helpful hints here: 👇
  -  ✍️ https://medium.com/@ally_burnside/
  
- <img align="right" alt="illustration of web developer with laptop" src="./assets/undraw_dev_focus_b9xo.svg" width="400" height="300" />
+ <img align="right" alt="illustration of web developer with laptop" src="./assets/undraw_dev_focus_b9xo.svg" width="350" height="300" />
  
  
  Outside of programming I love finance, technology, cooking and travel.
