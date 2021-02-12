@@ -1,4 +1,4 @@
-### Hi there 👋,  I'm Alexandra a front-end developer from New Zealand 🇳🇿
+## Hi there 👋,  I'm Alexandra a front-end developer from New Zealand 🇳🇿
  
 I am currently living in London 🇬🇧 and I love creating reliable and unique applications that are focused on the user experience. I am also passionate about UX/UI design 🎨 <br> You can find my learnings and helpful hints here: 👇
  -  ✍️ https://medium.com/@ally_burnside/
@@ -20,7 +20,7 @@ I am currently living in London 🇬🇧 and I love creating reliable and unique
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
- ## About Me
+ ### About Me
  Outside of programming I love finance, technology, hiking, cooking and travel.
 
 
